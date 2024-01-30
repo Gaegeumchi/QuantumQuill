@@ -1,4 +1,5 @@
 # QuantumQuill
 OctaX Light Large Language Model 
 Focus on velocity
-![qumtum](https://github.com/Gaegeumchi/QuantumQuill/assets/70493521/e9e9119c-64e8-449f-a2ae-1927e6f53789)
+
+![화면 캡처 2024-01-31 001105](https://github.com/Gaegeumchi/QuantumQuill/assets/70493521/94ea24ca-f118-4ffb-86d1-241eebbb824e)
